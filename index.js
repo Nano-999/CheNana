@@ -66,7 +66,7 @@ const mekata_dapan_raw_url = [{
   'url': "https://raw.githubusercontent.com/THEMISADAS2007/encfiles/refs/heads/main/plugins/baiscopes.js"
 }, {
   'id': 'cine.js',
-  'url': 'https://raw.githubusercontent.com/THEMISADAS2007/encfiles/refs/heads/main/plugins/cine.js'
+  'url': 'https://raw.githubusercontent.com/Nano-999/ChuChu/refs/heads/main/plugins/cine.js'
 }, {
   'id': "group.js",
   'url': "https://raw.githubusercontent.com/THEMISADAS2007/encfiles/refs/heads/main/plugins/group.js"
